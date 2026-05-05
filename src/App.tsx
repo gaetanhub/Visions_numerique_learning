@@ -9,7 +9,7 @@ export function App(): JSX.Element {
     <div className="layout">
       <aside>
         <h1>Vision Numérique</h1>
-        <p>Plateforme premium — version initiale</p>
+        <p>Plateforme premium — Chapitre 1 complet</p>
         <nav>
           <a href="#chap1"><BookOpen size={16} /> Chapitre 1 (actif)</a>
           {upcoming.map((n) => (
@@ -19,8 +19,10 @@ export function App(): JSX.Element {
       </aside>
       <main id="chap1">
         <h2>Chapitre 1 — Fondations et image numérique</h2>
-        <p>Implémentation initiale : structure pédagogique + modules 1 et 2.</p>
-        {chapter1Modules.map((module) => <ModuleCard key={module.id} module={module} />)}
+        <p>Théorie complète: modules 1 à 6, avec flashcards, quiz, sources et interactions.</p>
+        {chapter1Modules.map((module) => (
+          <ModuleCard key={module.id} module={module} imageBasePath="/chapitre_01/introduction" />
+        ))}
       </main>
     </div>
   );

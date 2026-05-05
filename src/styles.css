@@ -1,10 +1,22 @@
 :root { font-family: Inter, system-ui, sans-serif; }
 body { margin: 0; background: #f2f5fb; color: #172033; }
 .layout { display: grid; grid-template-columns: 280px 1fr; min-height: 100vh; }
-aside { background: #0d1b2a; color: #fff; padding: 20px; }
+aside { background: #0d1b2a; color: #fff; padding: 20px; position: sticky; top: 0; height: 100vh; }
 nav { display: flex; flex-direction: column; gap: 12px; }
 nav a, .coming { display: flex; gap: 8px; align-items: center; }
 main { padding: 28px; display: grid; gap: 16px; }
-.card { background: #fff; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px #0001; }
+.card { background: #fff; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px #0001; display: grid; gap: 8px; }
+.figGrid { display: grid; grid-template-columns: repeat(auto-fit,minmax(140px,1fr)); gap: 8px; }
+figure { margin: 0; background: #f8faff; padding: 8px; border-radius: 8px; }
+img { width: 100%; height: 90px; object-fit: cover; border-radius: 6px; }
+figcaption { font-size: .75rem; word-break: break-all; }
+.row { display: flex; gap: 8px; }
+.wrap { flex-wrap: wrap; }
+button { border: 1px solid #b2c0e8; background: #fff; border-radius: 8px; padding: 6px 10px; cursor: pointer; }
+.gradient { height: 32px; border-radius: 8px; border: 1px solid #cdd8f6; }
+.viz { width: 100%; max-width: 280px; height: 70px; }
 .source { color: #334b7d; font-size: 0.9rem; }
+.ok { color: #157347; }
+.ko { color: #b02a37; }
 .coming { color: #9fb0d0; }
+.flashcard { background: #f8faff; border: 1px solid #dce5ff; border-radius: 8px; padding: 8px; }
