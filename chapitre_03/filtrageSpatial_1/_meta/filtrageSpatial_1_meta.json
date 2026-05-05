@@ -1,0 +1,1631 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Filtrage spatial",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.66399383544922,
+          215.32659912109375
+        ],
+        [
+          350.87109375,
+          215.32659912109375
+        ],
+        [
+          350.87109375,
+          256.81640625
+        ],
+        [
+          68.66399383544922,
+          256.81640625
+        ]
+      ]
+    },
+    {
+      "title": "La fr\u00e9quence",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          32.34375,
+          34.27734375
+        ],
+        [
+          216.0419921875,
+          34.27734375
+        ],
+        [
+          216.0419921875,
+          64.8602294921875
+        ],
+        [
+          32.34375,
+          64.8602294921875
+        ]
+      ]
+    },
+    {
+      "title": "La fr\u00e9quence dans une image",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          32.711997985839844,
+          34.8602294921875
+        ],
+        [
+          429.375,
+          34.8602294921875
+        ],
+        [
+          429.375,
+          65.91796875
+        ],
+        [
+          32.711997985839844,
+          65.91796875
+        ]
+      ]
+    },
+    {
+      "title": "La fr\u00e9quence dans une image",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          32.711997985839844,
+          34.8602294921875
+        ],
+        [
+          429.1019287109375,
+          34.8602294921875
+        ],
+        [
+          429.1019287109375,
+          64.86328125
+        ],
+        [
+          32.711997985839844,
+          64.86328125
+        ]
+      ]
+    },
+    {
+      "title": "Filtrer une image en utilisant le contenu fr\u00e9quenciel (spectral)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          32.711997985839844,
+          34.8046875
+        ],
+        [
+          851.8018798828125,
+          34.8046875
+        ],
+        [
+          851.8018798828125,
+          65.390625
+        ],
+        [
+          32.711997985839844,
+          65.390625
+        ]
+      ]
+    },
+    {
+      "title": "On att\u00e9nue les hautes fr\u00e9quences (r\u00e9duction du bruit)",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          32.711997985839844,
+          34.8602294921875
+        ],
+        [
+          742.1818237304688,
+          34.8602294921875
+        ],
+        [
+          742.1818237304688,
+          64.86328125
+        ],
+        [
+          32.711997985839844,
+          64.86328125
+        ]
+      ]
+    },
+    {
+      "title": "Image = Assemblage de fr\u00e9quence? Analyse de Fourier",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          32.711997985839844,
+          34.541015625
+        ],
+        [
+          788.0518798828125,
+          34.541015625
+        ],
+        [
+          788.0518798828125,
+          65.654296875
+        ],
+        [
+          32.711997985839844,
+          65.654296875
+        ]
+      ]
+    },
+    {
+      "title": "Contenu spectral - A quoi ca sert?",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          31.875,
+          34.8602294921875
+        ],
+        [
+          492.3699951171875,
+          34.8602294921875
+        ],
+        [
+          492.3699951171875,
+          64.8602294921875
+        ],
+        [
+          31.875,
+          64.8602294921875
+        ]
+      ]
+    },
+    {
+      "title": "Une image comme superposition d'images sinuso\u00efdale",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          30.0,
+          34.8602294921875
+        ],
+        [
+          766.9618530273438,
+          34.8602294921875
+        ],
+        [
+          766.9618530273438,
+          64.8602294921875
+        ],
+        [
+          30.0,
+          64.8602294921875
+        ]
+      ]
+    },
+    {
+      "title": "Filtrer les fr\u00e9quences",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          31.875,
+          34.8046875
+        ],
+        [
+          312.6419677734375,
+          34.8046875
+        ],
+        [
+          312.6419677734375,
+          64.8602294921875
+        ],
+        [
+          31.875,
+          64.8602294921875
+        ]
+      ]
+    },
+    {
+      "title": "Retour vers le domaine spatial",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          31.875,
+          36.970733642578125
+        ],
+        [
+          437.37542724609375,
+          36.970733642578125
+        ],
+        [
+          437.37542724609375,
+          66.9947509765625
+        ],
+        [
+          31.875,
+          66.9947509765625
+        ]
+      ]
+    },
+    {
+      "title": "Op\u00e9rations dans le domaine spatial",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          30.0,
+          34.8602294921875
+        ],
+        [
+          502.3319396972656,
+          34.8602294921875
+        ],
+        [
+          502.3319396972656,
+          64.8602294921875
+        ],
+        [
+          30.0,
+          64.8602294921875
+        ]
+      ]
+    },
+    {
+      "title": "M\u00e9canisme de filtrage spatial - La convolution / corr\u00e9lation",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          31.875,
+          34.541015625
+        ],
+        [
+          805.5799560546875,
+          34.541015625
+        ],
+        [
+          805.5799560546875,
+          64.8602294921875
+        ],
+        [
+          31.875,
+          64.8602294921875
+        ]
+      ]
+    },
+    {
+      "title": "En math\u00e9matique:",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          547.96875,
+          264.990234375
+        ],
+        [
+          697.03125,
+          264.990234375
+        ],
+        [
+          697.03125,
+          284.9301452636719
+        ],
+        [
+          547.96875,
+          284.9301452636719
+        ]
+      ]
+    },
+    {
+      "title": "La convolution / corr\u00e9lation - Exemple avec z\u00e9ro padding",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          32.711997985839844,
+          34.81646728515625
+        ],
+        [
+          789.375,
+          34.81646728515625
+        ],
+        [
+          789.375,
+          64.86328125
+        ],
+        [
+          32.711997985839844,
+          64.86328125
+        ]
+      ]
+    },
+    {
+      "title": "Types de filtrages: choix du kernel",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          32.711997985839844,
+          34.8602294921875
+        ],
+        [
+          494.23193359375,
+          34.8602294921875
+        ],
+        [
+          494.23193359375,
+          65.390625
+        ],
+        [
+          32.711997985839844,
+          65.390625
+        ]
+      ]
+    },
+    {
+      "title": "Passe-bas - Kernel de type moyenne, lissage",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          30.0,
+          34.8046875
+        ],
+        [
+          635.8499755859375,
+          34.8046875
+        ],
+        [
+          635.8499755859375,
+          65.390625
+        ],
+        [
+          30.0,
+          65.390625
+        ]
+      ]
+    },
+    {
+      "title": "Box (moyenne Gaussien:\nou mediane):",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          531.5625,
+          106.32998657226562
+        ],
+        [
+          809.1640014648438,
+          106.32998657226562
+        ],
+        [
+          809.1640014648438,
+          146.989990234375
+        ],
+        [
+          531.5625,
+          146.989990234375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          736.875,
+          107.841796875
+        ],
+        [
+          808.125,
+          107.841796875
+        ],
+        [
+          808.125,
+          122.080078125
+        ],
+        [
+          736.875,
+          122.080078125
+        ]
+      ]
+    },
+    {
+      "title": "Exemples Box",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          32.711997985839844,
+          34.541015625
+        ],
+        [
+          225.0,
+          34.541015625
+        ],
+        [
+          225.0,
+          64.8602294921875
+        ],
+        [
+          32.711997985839844,
+          64.8602294921875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          61.875,
+          105.46875
+        ],
+        [
+          191.25,
+          105.46875
+        ],
+        [
+          191.25,
+          118.125
+        ],
+        [
+          61.875,
+          118.125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          43.59375,
+          135.263671875
+        ],
+        [
+          187.03125,
+          135.263671875
+        ],
+        [
+          187.03125,
+          265.517578125
+        ],
+        [
+          43.59375,
+          265.517578125
+        ]
+      ]
+    },
+    {
+      "title": "Filtre low pass (att\u00e9nue le bruit) puis seuillage:",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          62.8125,
+          312.89013671875
+        ],
+        [
+          434.1119689941406,
+          312.89013671875
+        ],
+        [
+          434.1119689941406,
+          331.69921875
+        ],
+        [
+          62.8125,
+          331.69921875
+        ]
+      ]
+    },
+    {
+      "title": "Gaussien",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          32.711997985839844,
+          34.27734375
+        ],
+        [
+          159.4320068359375,
+          34.27734375
+        ],
+        [
+          159.4320068359375,
+          64.8602294921875
+        ],
+        [
+          32.711997985839844,
+          64.8602294921875
+        ]
+      ]
+    },
+    {
+      "title": "Les coefficients du filtre Gaussien s'obtiennent",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          38.80799865722656,
+          96.2501220703125
+        ],
+        [
+          414.1799621582031,
+          96.2501220703125
+        ],
+        [
+          414.1799621582031,
+          123.662109375
+        ],
+        [
+          38.80799865722656,
+          123.662109375
+        ]
+      ]
+    },
+    {
+      "title": "M\u00e9dian",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          32.34375,
+          34.8602294921875
+        ],
+        [
+          131.08200073242188,
+          34.8602294921875
+        ],
+        [
+          131.08200073242188,
+          64.8602294921875
+        ],
+        [
+          32.34375,
+          64.8602294921875
+        ]
+      ]
+    },
+    {
+      "title": "Low pass - Filtrage Bilateral pour pr\u00e9server les countours",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          32.711997985839844,
+          34.013671875
+        ],
+        [
+          792.9998779296875,
+          34.013671875
+        ],
+        [
+          792.9998779296875,
+          64.8602294921875
+        ],
+        [
+          32.711997985839844,
+          64.8602294921875
+        ]
+      ]
+    },
+    {
+      "title": "Image originale:",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          88.125,
+          123.662109375
+        ],
+        [
+          216.6600341796875,
+          123.662109375
+        ],
+        [
+          216.6600341796875,
+          142.35012817382812
+        ],
+        [
+          88.125,
+          142.35012817382812
+        ]
+      ]
+    },
+    {
+      "title": "Low pass - Filtrage Bilateral pour pr\u00e9server les countours",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          29.25,
+          34.541015625
+        ],
+        [
+          796.5,
+          34.541015625
+        ],
+        [
+          796.5,
+          64.5
+        ],
+        [
+          29.25,
+          64.5
+        ]
+      ]
+    },
+    {
+      "title": "Originale:",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          54.0,
+          100.5
+        ],
+        [
+          137.25,
+          100.5
+        ],
+        [
+          137.25,
+          121.552734375
+        ],
+        [
+          54.0,
+          121.552734375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          5
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          13
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          23
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          13
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          18
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          3
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          25
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          26
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          23
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          29
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          57
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          23
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          35
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          18
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          23
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          42
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Picture",
+          9
+        ],
+        [
+          "Span",
+          9
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "PictureGroup",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          21
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "PictureGroup",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          52
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          16
+        ],
+        [
+          "Picture",
+          11
+        ],
+        [
+          "Span",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\filtrageSpatial_1"
+}

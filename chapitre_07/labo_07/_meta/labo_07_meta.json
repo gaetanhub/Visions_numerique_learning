@@ -1,0 +1,438 @@
+{
+  "table_of_contents": [
+    {
+      "title": "VISION NUMERIQUE\n2025-2026",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          168.20703125,
+          164.5548095703125
+        ],
+        [
+          426.3002624511719,
+          164.5548095703125
+        ],
+        [
+          426.3002624511719,
+          219.62982177734375
+        ],
+        [
+          168.20703125,
+          219.62982177734375
+        ]
+      ]
+    },
+    {
+      "title": "LABO 7\nTransform\u00e9e de Hough",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          153.07421875,
+          329.49993896484375
+        ],
+        [
+          441.4128112792969,
+          329.49993896484375
+        ],
+        [
+          441.4128112792969,
+          384.6499328613281
+        ],
+        [
+          153.07421875,
+          384.6499328613281
+        ]
+      ]
+    },
+    {
+      "title": "1 D\u00e9tection de lignes dans une image",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.0546875,
+          416.64794921875
+        ],
+        [
+          417.8984375,
+          416.64794921875
+        ],
+        [
+          417.8984375,
+          436.623046875
+        ],
+        [
+          50.0546875,
+          436.623046875
+        ]
+      ]
+    },
+    {
+      "title": "2 Travail \u00e0 accomplir",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          48.890625,
+          697.6334838867188
+        ],
+        [
+          256.98040771484375,
+          697.6334838867188
+        ],
+        [
+          256.98040771484375,
+          717.2334899902344
+        ],
+        [
+          48.890625,
+          717.2334899902344
+        ]
+      ]
+    },
+    {
+      "title": "2.1 Librairies \u00e0 utiliser",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.63671875,
+          246.6796875
+        ],
+        [
+          242.00601196289062,
+          246.6796875
+        ],
+        [
+          242.00601196289062,
+          263.87188720703125
+        ],
+        [
+          50.63671875,
+          263.87188720703125
+        ]
+      ]
+    },
+    {
+      "title": "2.2 Fonctionnalit\u00e9s n\u00e9cessaires",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.63671875,
+          352.24267578125
+        ],
+        [
+          306.24920654296875,
+          352.24267578125
+        ],
+        [
+          306.24920654296875,
+          369.04266357421875
+        ],
+        [
+          50.63671875,
+          369.04266357421875
+        ]
+      ]
+    },
+    {
+      "title": "Appel/ex\u00e9cution de votre programme",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.0546875,
+          432.9228515625
+        ],
+        [
+          317.61163330078125,
+          432.9228515625
+        ],
+        [
+          317.61163330078125,
+          449.3495178222656
+        ],
+        [
+          50.0546875,
+          449.3495178222656
+        ]
+      ]
+    },
+    {
+      "title": "$ python3 hough.py path/to/my/image/lena.png",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          61.023616790771484,
+          511.8603515625
+        ],
+        [
+          357.6892395019531,
+          511.8603515625
+        ],
+        [
+          357.6892395019531,
+          527.4833984375
+        ],
+        [
+          61.023616790771484,
+          527.4833984375
+        ]
+      ]
+    },
+    {
+      "title": "Pr\u00e9traitement et filtres",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.63671875,
+          618.7128753662109
+        ],
+        [
+          214.80963134765625,
+          618.7128753662109
+        ],
+        [
+          214.80963134765625,
+          632.7128753662109
+        ],
+        [
+          50.63671875,
+          632.7128753662109
+        ]
+      ]
+    },
+    {
+      "title": "Transform\u00e9e de Hough pour les lignes",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          50.63671875,
+          40.94989013671875
+        ],
+        [
+          319.53515625,
+          40.94989013671875
+        ],
+        [
+          319.53515625,
+          54.94989013671875
+        ],
+        [
+          50.63671875,
+          54.94989013671875
+        ]
+      ]
+    },
+    {
+      "title": "3 Images de tests et exemples de rendu",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          51.023616790771484,
+          40.27783203125
+        ],
+        [
+          438.9664611816406,
+          40.27783203125
+        ],
+        [
+          438.9664611816406,
+          59.87786865234375
+        ],
+        [
+          51.023616790771484,
+          59.87786865234375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          66
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListGroup",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          128
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Code",
+          4
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Line",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\labo_07"
+}

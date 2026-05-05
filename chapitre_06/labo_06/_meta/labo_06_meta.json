@@ -1,0 +1,233 @@
+{
+  "table_of_contents": [
+    {
+      "title": "VISION NUMERIQUE\n2025-2026",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          168.20703125,
+          164.5548095703125
+        ],
+        [
+          426.3002624511719,
+          164.5548095703125
+        ],
+        [
+          426.3002624511719,
+          219.62982177734375
+        ],
+        [
+          168.20703125,
+          219.62982177734375
+        ]
+      ]
+    },
+    {
+      "title": "LABO 6\nMorphologies",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          213.0234375,
+          329.49993896484375
+        ],
+        [
+          382.1753234863281,
+          329.49993896484375
+        ],
+        [
+          382.1753234863281,
+          384.6499328613281
+        ],
+        [
+          213.0234375,
+          384.6499328613281
+        ]
+      ]
+    },
+    {
+      "title": "1 Objectifs",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.0546875,
+          416.64794921875
+        ],
+        [
+          156.25604248046875,
+          416.64794921875
+        ],
+        [
+          156.25604248046875,
+          436.623046875
+        ],
+        [
+          50.0546875,
+          436.623046875
+        ]
+      ]
+    },
+    {
+      "title": "2 Exercices",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.927734375,
+          498.29296875
+        ],
+        [
+          159.98004150390625,
+          498.29296875
+        ],
+        [
+          159.98004150390625,
+          518.0554809570312
+        ],
+        [
+          50.927734375,
+          518.0554809570312
+        ]
+      ]
+    },
+    {
+      "title": "2.1 Mise en place",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.927734375,
+          544.7509765625
+        ],
+        [
+          196.293212890625,
+          544.7509765625
+        ],
+        [
+          196.293212890625,
+          562.6371154785156
+        ],
+        [
+          50.927734375,
+          562.6371154785156
+        ]
+      ]
+    },
+    {
+      "title": "2.2 Morphologies binaires",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.0546875,
+          692.7587890625
+        ],
+        [
+          266.8196105957031,
+          692.7587890625
+        ],
+        [
+          266.8196105957031,
+          710.6086730957031
+        ],
+        [
+          50.0546875,
+          710.6086730957031
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Code",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          29
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\labo_06"
+}

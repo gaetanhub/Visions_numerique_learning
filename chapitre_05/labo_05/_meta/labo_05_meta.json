@@ -1,0 +1,206 @@
+{
+  "table_of_contents": [
+    {
+      "title": "VISION NUMERIQUE\n2025-2026",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          168.7890625,
+          164.5548095703125
+        ],
+        [
+          426.3002624511719,
+          164.5548095703125
+        ],
+        [
+          426.3002624511719,
+          219.62982177734375
+        ],
+        [
+          168.7890625,
+          219.62982177734375
+        ]
+      ]
+    },
+    {
+      "title": "LABO 5\nFiltrage dans le domaine fr\u00e9quenciel",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.2752914428711,
+          329.49993896484375
+        ],
+        [
+          525.9752807617188,
+          329.49993896484375
+        ],
+        [
+          525.9752807617188,
+          384.8203125
+        ],
+        [
+          69.2752914428711,
+          384.8203125
+        ]
+      ]
+    },
+    {
+      "title": "1 FFT, spectres d'amplitudes et iFFT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.0546875,
+          416.64794921875
+        ],
+        [
+          424.1488037109375,
+          416.64794921875
+        ],
+        [
+          424.1488037109375,
+          437.0341796875
+        ],
+        [
+          50.0546875,
+          437.0341796875
+        ]
+      ]
+    },
+    {
+      "title": "2 Observations",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          51.023616790771484,
+          372.486328125
+        ],
+        [
+          195.45602416992188,
+          372.486328125
+        ],
+        [
+          195.45602416992188,
+          392.4671325683594
+        ],
+        [
+          51.023616790771484,
+          392.4671325683594
+        ]
+      ]
+    },
+    {
+      "title": "3 Filtres",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.63671875,
+          613.8212890625
+        ],
+        [
+          132.1480255126953,
+          613.8212890625
+        ],
+        [
+          132.1480255126953,
+          635.3727111816406
+        ],
+        [
+          50.63671875,
+          635.3727111816406
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Code",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\labo_05"
+}
