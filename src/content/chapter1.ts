@@ -1,48 +1,22 @@
 export type Source = { file: string; page: string };
-
-export type Flashcard = {
-  question: string;
-  answer: string;
-};
-
-export type QuizItem = {
-  question: string;
-  options: string[];
-  answerIndex: number;
-  feedback: string;
-};
-
 export type ModuleData = {
   id: string;
   title: string;
   prerequis: string[];
   ultraSimple: string[];
-  course: string[];
+  points: string[];
   figures: string[];
-  aRetenir: string[];
-  flashcards: Flashcard[];
-  quiz: QuizItem[];
   source: Source;
-  interactiveHint: string;
 };
 
 export const chapter1Modules: ModuleData[] = [
   {
     id: 'vision-humaine',
     title: 'Module 1 — Vision humaine et subjectivité',
-    prerequis: ['Aucun prérequis technique.', 'Comprendre que la lumière peut être captée par l’œil.'],
-    ultraSimple: ['L’œil est un capteur.', 'Le cerveau interprète ce signal, donc deux personnes peuvent percevoir différemment.'],
-    course: ['Rétine, bâtonnets et cônes.', 'Différences entre radiance, luminance et brightness.', 'Lien entre limites humaines et vision numérique.'],
-    figures: ['introduction_p5_fig1.jpeg', 'introduction_p5_fig6.jpeg', 'introduction_p6_fig2.jpeg', 'introduction_p7_fig2.jpeg'],
-    aRetenir: ['La perception n’est pas une mesure absolue.', 'La vision numérique cherche des mesures plus robustes.'],
-    flashcards: [
-      { question: 'Quel rôle ont les cônes ?', answer: 'Perception de la couleur et détails en forte luminosité.' },
-      { question: 'Pourquoi la vision est subjective ?', answer: 'Parce que le cerveau interprète le signal visuel.' }
-    ],
-    quiz: [
-      { question: 'Laquelle décrit le mieux la subjectivité visuelle ?', options: ['Mesure brute', 'Interprétation du cerveau', 'Compression JPEG'], answerIndex: 1, feedback: 'Exact : la perception dépend de l’interprétation neurologique.' }
-    ],
-    interactiveHint: 'Ajuste la luminosité perçue pour observer l’écart entre mesure et perception.',
+    prerequis: ['Aucun prérequis technique.'],
+    ultraSimple: ['L\'œil capte la lumière.', 'Le cerveau interprète et peut se tromper.'],
+    points: ['Rétine, bâtonnets, cônes', 'Luminance, brightness, radiance', 'Lien vision humaine / vision numérique'],
+    figures: ['introduction_p5_fig1.jpeg', 'introduction_p5_fig6.jpeg', 'introduction_p6_fig2.jpeg'],
     source: { file: 'introduction.md', page: '5-8' }
   },
   {
